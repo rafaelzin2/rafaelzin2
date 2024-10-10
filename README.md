@@ -1,4 +1,4 @@
-Boas vindas ao meu perfil 💙   
+### Boas vindas ao meu perfil 💙   
 
 Meu nome é Rafael Orlando
 
@@ -8,7 +8,7 @@ Meu nome é Rafael Orlando
   
   °Utilizo esse espaço para organização ecompartilhamento dos meus projetos
 
-Pode entrar em contato comigo pelo 📫
+### Pode entrar em contato comigo pelo 📫
 
 rafael.vessio@escola.pr.gov.br
 
